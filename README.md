@@ -29,6 +29,6 @@ Notebooks: 01_treearches_murine_hierarchy_2500.ipynb \
            04_treearches_mouse_rat_hierarchy_2500.ipynb \
 They have code for reproducibility of our murine and rodent (mouse and rat) hierarchies and for the conducted verification in mouse data using the predict_labels function from scHPL.
 
-The bioRxiv publication can be found here: https://doi.org/10.1101/2024.09.19.613879
+The reviewed publication can be found here: https://doi.org/10.7554/eLife.106217.2
 
-Sabatini Lab/ McGill University, 2024
+Sabatini Lab/ McGill University, 2025
